@@ -1,10 +1,10 @@
 <template>
-  <h1>History</h1>
+  <h1>Contact</h1>
 </template>
 
 <script>
 export default {
-  name: 'History',
+  name: 'Contact',
   props: {},
   data() {
     return {

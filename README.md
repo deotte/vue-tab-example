@@ -1,6 +1,8 @@
-# tabs-example
+# How to create a tabs component in Vue 3
 
-## Project setup
+### How to run project locally
+
+### Project setup
 ```
 npm install
 ```
